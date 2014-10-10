@@ -1,5 +1,6 @@
 // This file is executed in the browser, when people visit /chat/<random id>
 
+
 $(function(){
 
 	// getting the id of the room from the url
